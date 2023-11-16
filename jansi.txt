@@ -1,0 +1,5 @@
+Hello My name is Jansi Emima Getzial
+This is my Task 1 in the Python Programming Internship given by Nova Tech
+The Task is to build a Word Count Tool.
+
+
